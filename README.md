@@ -31,6 +31,6 @@ pip install sympy notebook
 
     Algorithme d'Euclide Étendu : Résolution de l'identité de Bézout ua+nb=1.
 
-    Exponentiation Modulaire : Calcul efficace de Mk(modn).
+    Exponentiation Modulaire : Calcul efficace de M^k(modn).
 
 Auteur : Voahanginiaina Roberte RANDRIANJAFY
