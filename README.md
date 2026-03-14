@@ -24,8 +24,8 @@ pip install sympy notebook
     Clés : Saisissez p et q pour obtenir la valeur de ϕ(n) ( F dans le code).
 
     Opération : Entrez le message M, l'exposant k et le module n pour obtenir le résultat chiffré ou déchiffré.
-
-🔬 Concepts Mathématiques
+---
+## 🔬 Concepts Mathématiques
 
     Nombres de Mersenne : Forme Mi​=2i−1.
 
